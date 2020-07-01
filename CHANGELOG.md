@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-tasks/#history
 
+## [1.6.0](https://www.github.com/googleapis/python-tasks/compare/v1.5.0...v1.6.0) (2020-07-01)
+
+
+### Features
+
+* introduce field Queue.type; update default retry configs ([#29](https://www.github.com/googleapis/python-tasks/issues/29)) ([6b8ba85](https://www.github.com/googleapis/python-tasks/commit/6b8ba85de5998b0c2138bbf771fa16ba8f9bbf07))
+
 ## [1.5.0](https://www.github.com/googleapis/python-tasks/compare/v1.4.0...v1.5.0) (2020-02-24)
 
 
